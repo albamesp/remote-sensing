@@ -1,2 +1,2 @@
 # remote-sensing
-repo for blog on remote sensing of the cryosphere
+Store ideas for the blog entry: remote sensing of the cryosphere
