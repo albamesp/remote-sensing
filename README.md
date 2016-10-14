@@ -4,6 +4,8 @@ Store ideas for the blog entry: remote sensing of the cryosphere
  - RATES Project
  - South Antarctic Peninsula
  - Iceshelf velocity
+ 
+ From EGU Blog
  Why do we need satellites?
 
 Let’s start at the very beginning with how Earth observation data (e.g. temperature, ice cover, cloud cover, etc…) is collected. In the early days, measurements could only be collected pointwise, e.g. at weather stations (see Fig. 2) or by scientists traveling over land and by ship to specific locations. As a consequence, data coverage was very sparse and often clustered in places that were easily accessible, such as North America or Europe (Fig. 2). Additionally, measurements were even more sparse in hostile environments like the polar regions. It was therefore difficult to monitor these areas and study, for example, the evolution of polar ice sheets and sea-ice cover.
